@@ -1,0 +1,2 @@
+# Reinforcement-Learning-for-Algorithmic-Trading-with-Risk-Management-Constraints-Python-
+This project applies Proximal Policy Optimisation (PPO) to build risk-aware trading agents under realistic market conditions. Performance is benchmarked against Buy &amp; Hold, Logistic Regression, and SVM models. PPO agents incorporate transaction costs, position limits, stop-loss/take-profit rules, and VaR-based risk budgeting.
